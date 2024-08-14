@@ -1,0 +1,5 @@
+rtsp://admin:KaiHong%40123@10.70.1.139:5543/Streaming/Channels/101    右前
+rtsp://admin:KaiHong%40123@10.70.1.139:5544/Streaming/Channels/101    左后
+rtsp://admin:KaiHong@123@10.70.1.139:5545/stream    正后
+rtsp://admin:KaiHong@123@10.70.1.139:5506/stream    右后
+rtsp://admin:KaiHong%40123@10.70.1.139:5531/Streaming/Channels/101    左前
